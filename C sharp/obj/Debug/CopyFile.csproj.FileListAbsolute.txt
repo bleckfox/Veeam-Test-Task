@@ -1,0 +1,10 @@
+D:\Code\Csharp\CopyFile\bin\Debug\CopyFile.exe.config
+D:\Code\Csharp\CopyFile\bin\Debug\CopyFile.exe
+D:\Code\Csharp\CopyFile\bin\Debug\CopyFile.pdb
+D:\Code\Csharp\CopyFile\obj\Debug\CopyFile.csproj.AssemblyReference.cache
+D:\Code\Csharp\CopyFile\obj\Debug\CopyFile.Form1.resources
+D:\Code\Csharp\CopyFile\obj\Debug\CopyFile.Properties.Resources.resources
+D:\Code\Csharp\CopyFile\obj\Debug\CopyFile.csproj.GenerateResource.cache
+D:\Code\Csharp\CopyFile\obj\Debug\CopyFile.csproj.CoreCompileInputs.cache
+D:\Code\Csharp\CopyFile\obj\Debug\CopyFile.exe
+D:\Code\Csharp\CopyFile\obj\Debug\CopyFile.pdb

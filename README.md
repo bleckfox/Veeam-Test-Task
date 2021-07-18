@@ -47,3 +47,14 @@ file_04.txt sha1 da39a3ee5e6b4b0d3255bfef95601890afd80709
 ```
 <your program> <path to the input file> <path to the directory containing the files to check>
 ```
+
+Формат вывода   :
+```
+file_01.bin OK
+
+file_02.bin FAIL
+
+file_03.bin NOT FOUND
+
+file_04.txt OK
+```
